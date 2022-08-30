@@ -1,3 +1,2 @@
-sl dfdslfk
-slfd 
-sdf l"Computer Vision" 
+# Computer Vision project
+ 
